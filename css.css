@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+menu{
+    padding: 20px;
+    background-color: #222423;
+}
+.Container1{
+    margin: 0 auto;
+}
+
+.DesignMenu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.MyPorforio{
+    font-weight: lighter;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 0px 0px 0px 30px;
+}
+
+.MenuTap{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.MenuTap li{
+    padding: 0px 40px 0px 0px;
+}
+
+.MenuTap li a{
+    color: aliceblue;
+    text-decoration-line: none;
+}
+
+.Container2{
+    margin: 0 auto;
+    background-color: #98A1A8;
+}
+
+.MyProfile{
+    display: flex;
+    justify-content: space-between;
+}
+
+.MyName{
+    width: 100%;
+    padding: 110px 40px 0px 120px;;
+}
+.MyName h3{
+    font-style: italic;
+    font-size: 80px;
+}
+
+.MyName p{
+    font-family: "KoHo", sans-serif;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.MyProto {
+    width: 60%;
+    padding: 30px;
+}
+
+.MainTopic{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top : 50px;
+    text-align: center;
+}
+
+.Container3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Topic{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Topic2{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Topic h2{
+    margin: 0px auto;
+}
+
+.Topic2 h2{
+    margin-bottom: 20px;
+}
+
+.Topic p{
+    font-family: "KoHo", sans-serif;
+    margin: 20px auto;
+}
+
+.Topic2 p {
+    font-family: "KoHo", sans-serif;
+    margin: 5px;
+}
+
+.Topic p{
+    margin: 20px auto;
+}
